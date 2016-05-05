@@ -285,6 +285,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [Stream](https://www.producthunt.com/r/e069b8159d31bb/51641) - Analytics for feeds.
  * [Mobile Dashboards by Mixpanel](https://www.producthunt.com/r/4da193a39f35a0/49303) - Monitor your key metrics, everywhere you go
  * [A/B Testing Effectively](https://blog.intercom.io/why-ab-tests-should-yield-more-than-results/) - Run successful, statistically accurate A/B tests.
+ * [Notion](http://usenotion.com) - Dashboards, team engagement polling, and reporting for product teams.
 
  ### Books
  #####Design
